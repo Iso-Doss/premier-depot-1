@@ -1,1 +1,1 @@
-ceci est une modification faite en ligne
+J'ai remodifier ce fichier depuis ma machine (en local)
